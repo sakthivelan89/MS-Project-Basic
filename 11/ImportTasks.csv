@@ -1,0 +1,22 @@
+WBS,Name,Estimated_Work,Duration,Resources
+1.1,Prepare needs assessment,160h,4w,Relo PM
+1.2,Determine location,80h,4w,Relo PM
+1.3,Define budget,20h,1w,Relo PM
+1.4,Determine desired finish date,4h,1w,Relo Assistant
+1.5,Specify quality level,4h,1w,Relo Assistant
+2.1,Develop plans,320h,4w,Architect
+2.2,Obtain permits,4h,6w,Relo Assistant
+2.3,Finalize construciton documents,80h,1w,Architect
+2.4,Obtain bids,8h,3w,office manager
+2.5,Select GC,16h,2d,Relo PM
+3.1,Construct space,480h,12w,Contractor
+3.2,Meet with GC and architect,4h,.5d,Relo PM
+3.3,Document issues,4h,.5d,Relo Assistant
+3.4,Monitor changes,48h,12w,Relo PM
+3.5,walkthrough,16h,1d,Relo PM
+4.1,Organize move,120h,3w,Office manager
+4.2,Develop final timeline,24h,5d,Relo PM
+4.3,Hire moving company,16h,1w,Relo Assistant
+4.4,Identify issues,8h,1d,Relo PM
+4.5,Prep for move,40h,1w,Office manager
+4.6,Move,16h,2d,Movers
